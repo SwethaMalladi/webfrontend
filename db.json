@@ -1,0 +1,39 @@
+{"networks": [{
+    "id": 1,
+    "Name": "T-Mobile",
+    "Founder": "John W Stanton",
+    "Plan_name": "Magenta",
+    "Prize": 100,
+    "Subscribers" : 110,
+    "Turnover" : 19.477
+
+},
+{
+  "id": 2,
+  "Name": "AT&T",
+  "Founder": "Gardiner Greene Hubbard",
+  "Plan_name": "AT&T Prepaid",
+  "Prize": 59,
+  "Subscribers" : 101.6,
+  "Turnover" : 170.756
+},
+{
+  "id": 3,
+  "Name": "Verizon",
+  "Founder": "Bell Atlantic",
+  "Plan_name": "Business Unlimited Plus",
+  "Prize": 69,
+  "Subscribers" : 143,
+  "Turnover" : 135.651
+},
+{
+  "id": 4,
+  "Name": "Lyca",
+  "Founder": "Subaskaran Allirajah",
+  "Plan_name": "Unlimited Nationwide Plan",
+  "Prize": 49,
+  "Subscribers" : 16,
+  "Turnover" : 1.8
+}
+
+]}
